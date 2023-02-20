@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-image: url(../images/banner/banner1.png);
+    height: 808px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.banner-info {
+    position: absolute;
+    left: 1000px;
+    top: 300px;
+    text-align: end;
+
+}
+
+.banner-btn {
+    background-color: #F15B22;
+    padding: 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 1em;
+    color: #FFFFFF;
+
+}
