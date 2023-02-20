@@ -52,3 +52,23 @@ header {
     margin-top: 8px;
 
 }
+
+/* My Plan Section Start */
+.my-plan {
+    text-align: center;
+    margin-top: 200px;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.my-plan-site {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.my-plan-site img {
+    margin-bottom: 20px;
+}
