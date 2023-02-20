@@ -15,7 +15,7 @@ header {
 
 .banner-info {
     position: absolute;
-    left: 1000px;
+    left: 1500px;
     top: 300px;
     text-align: end;
 
@@ -143,4 +143,34 @@ header {
     font-weight: 600;
     font-size: 1em;
     color: #F15B22;
+}
+
+/* Footer */
+.future {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    background-color: black;
+    color: #FFFFFF;
+    padding: 100px;
+
+}
+
+.future1 {
+    width: 40%;
+    margin-left: 150px;
+    padding: 10px;
+}
+
+.email-phone {
+    margin: 20px 0;
+}
+
+.future2 {
+    width: 40%;
+    margin-left: 150px;
+}
+
+.email-blank {
+    font-size: 1.5rem;
 }
