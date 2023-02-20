@@ -32,3 +32,23 @@ header {
     color: #FFFFFF;
 
 }
+
+/* Main Section Start */
+.year-review {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.year-review-img img {
+    width: 100%;
+}
+
+.year-review-info {
+    width: 40%;
+}
+
+.Fails p {
+    margin-top: 8px;
+
+}
